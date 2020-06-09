@@ -1,4 +1,4 @@
-[![CircleCI](https://https://app.circleci.com/pipelines/github/weinanlee/Operationalize-ML-Microservice/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/weinanlee/Operationalize-ML-Microservice)
+[![CircleCI](https://https://app.circleci.com/pipelines/github/weinanlee/Operationalize-ML-Microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/weinanlee/Operationalize-ML-Microservice)
 
 # Project 4: Operationalize a Machine Learning Microservice API 
 
