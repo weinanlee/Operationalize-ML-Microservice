@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/mehmetincefidan/Operationalize-a-Machine-Learning-Microservice-API/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/weinanlee/Operationalize-ML-Microservice)
+[![CircleCI](https://https://app.circleci.com/pipelines/github/weinanlee/Operationalize-ML-Microservice/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/weinanlee/Operationalize-ML-Microservice)
 
 # Project 4: Operationalize a Machine Learning Microservice API 
 
@@ -59,7 +59,7 @@ This repository has been verified with CircleCI
 |  output_txt_files   # Log of Output 
 |  Dockerfile         # Dockerfile for building the image 
 |  Makefile           # environment setup and lint tests
-|  app.py             # Python flask app that serves out predictions (inference) about housing |prices through API calls
+|  app.py             # Python flask app that serves out predictions (inference) about housing prices through API calls
 |  make_prediction.sh # Send a request to the Python flask app to get a prediction for localhost 
 |  requirements.txt   # packages dependencies 
 |  run_docker.sh      # shell script to get Docker running locally
